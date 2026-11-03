@@ -46,3 +46,14 @@ Institution: ENSEA, France
 Project type: Team-based engineering project
 
 Focus: Embedded systems, electronic design, and PCB development
+
+## Project Gallery
+
+### STM32 Control Unit
+
+![STM32 Control Unit](images/control_box.jpg)
+
+### Complete Motor Control System
+
+![Complete Motor Control System](images/full_system_motor.jpg)
+
