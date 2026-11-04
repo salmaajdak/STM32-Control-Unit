@@ -7,6 +7,15 @@ The objective was to design a control unit based on an STM32 microcontroller for
 
 The system includes an STM32L476RG microcontroller, a TFT display, push buttons, a rotary encoder, and dedicated electronic boards.
 
+## My Contributions
+
+As a member of the project team, I was responsible for the PCB design work on two boards:
+
+- Button interface PCB: electronic schematic, component placement, and PCB routing.
+- USB-C communication PCB: electronic schematic, component placement, and PCB routing.
+
+The broader project involved STM32 programming and hardware/software integration, carried out collaboratively by the team.
+
 ## Hardware Design
 
 ### 1. Button Interface PCB
@@ -16,15 +25,6 @@ A custom PCB designed with KiCad for the control unit's push-button interface an
 ### 2. USB-C Communication PCB
 
 A dedicated PCB designed with KiCad to support the control unit's USB-C interface and associated electronic connections.
-
-## My Contributions
-
-As a member of the project team, I was responsible for the PCB design work on two boards:
-
-- Button interface PCB: electronic schematic, component placement, and PCB routing.
-- USB-C communication PCB: electronic schematic, component placement, and PCB routing.
-
-The broader project involved STM32 programming and hardware/software integration, carried out collaboratively by the team.
 
 ## Technologies and Tools
 
